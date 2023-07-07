@@ -19,7 +19,7 @@
 - It installs the MinGW directory directly to your system and quickly adds it to the environment path.
 - Download the latest release of the installer [here](https://github.com/bharathajjarapu/MinGW-Installer/releases).
 
-##End
+## End
 
 - If U are Using VS Code for development
 - For Single File use CompileRun Or Code Runner
