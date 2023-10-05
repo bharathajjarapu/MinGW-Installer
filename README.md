@@ -21,6 +21,6 @@
 
 ## End
 
-- If U are Using VS Code for development
+- If you are using VS Code for development
 - For Single File use CompileRun Or Code Runner
 - For Multifiles use Microsoft C,C++ Package
